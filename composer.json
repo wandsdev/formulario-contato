@@ -12,5 +12,6 @@
             "WandsDev\\FormularioContato\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
