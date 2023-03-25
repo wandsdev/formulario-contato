@@ -1,7 +1,6 @@
 {
     "name": "wands/formulario-contato",
     "description": "Página de formulário de contato básica. Dados são salvos no banco na tabela contato",
-    "version": "1.0.1",
     "authors": [
         {
             "name": "Wanderlei Junior",
